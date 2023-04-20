@@ -1,6 +1,6 @@
 ### Hi there I'm Karolina 👋
 - 🌱 I’m currently practise **React** on Youcode course
-- 🔭 All of my project are avialable [**here**](https://github.com/KarolinaJ33?tab=repositories)
+- 🔭 All of my project are available [**here**](https://github.com/KarolinaJ33?tab=repositories)
 - 📫 How to reach me: **karolinajasiowka@gmail.com**
 
 <!--

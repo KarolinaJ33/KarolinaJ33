@@ -3,7 +3,7 @@
  
 - 🌱 I’m currently practise **React** on Youcode course
 - 🔭 All of my project are available [**here**](https://github.com/KarolinaJ33?tab=repositories)
-- 📫 How to reach me: **karolinajasiowka@gmail.com**
+- 📫 How to reach me: **jasiowkakarolina@gmail.com**
 
 <!--
 **KarolinaJ33/KarolinaJ33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

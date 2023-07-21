@@ -1,7 +1,7 @@
 ### Hi there I'm Karolina 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarolinaJ33&label=Profile%20views&color=0e75b6&style=flat" alt="KarolinaJ33" /> </p>
  
-- 🌱 I’m currently practise **React** on Youcode course
+- 🌱 I’m currently practise **React** on YouCode course
 - 🔭 All of my project are available [**here**](https://github.com/KarolinaJ33?tab=repositories)
 - 📫 How to reach me: **jasiowkakarolina@gmail.com**
 
